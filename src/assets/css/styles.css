@@ -1,0 +1,27 @@
+.btn {
+  color: rgb(0,0,0);
+  border-radius: 30px;
+  font-size: 14px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-left: 5px;
+  width: 90px;
+}
+
+.btg:hover {
+  background-color: #e4e6e8;
+  border-radius: 30px;
+  font-size: 14px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-left: 5px;
+  width: 90px;
+}
+
+.btn.btn-primary {
+}
+
+.btw:hover {
+  color: #0b93ee;
+}
+
